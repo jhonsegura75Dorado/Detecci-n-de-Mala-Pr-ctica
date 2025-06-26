@@ -1,1 +1,1 @@
-# Deteccion-de-Malas Practica
+# Deteccion de Malas Practica
